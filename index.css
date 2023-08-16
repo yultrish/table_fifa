@@ -37,7 +37,7 @@ table tbody tr:nth-child(even){
 		width: 100%;
 	}
 	table tr{
-		margin-bottom:15px;
+		margin-bottom:0.8rem;
 	}
 	table td{
 		text-align: right;
